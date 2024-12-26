@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///home/roshandaniel/Documents/Code/AssignmentFrontend/pages/_app.js"],"sourcesContent":["// pages/_app.js\nimport RootLayout from '../components/RootLayout';\n\nfunction MyApp({ Component, pageProps }) {\n  return (\n    <RootLayout>\n      <Component {...pageProps} />\n    </RootLayout>\n  );\n}\n\nexport default MyApp;"],"names":[],"mappings":"AAAA,gBAAgB;;;;;AAChB;;;AAEA,SAAS,MAAM,EAAE,SAAS,EAAE,SAAS,EAAE;IACrC,qBACE,qKAAC,iHAAA,CAAA,UAAU;kBACT,cAAA,qKAAC;YAAW,GAAG,SAAS;;;;;;;;;;;AAG9B;uCAEe"}},
-    {"offset": {"line": 48, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
